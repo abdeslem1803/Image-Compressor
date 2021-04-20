@@ -36,6 +36,6 @@ npm start
 ```
 ## Application test :
 
-*1 ![image info](./capture/Capture1.png)
-*2 ![image info](./capture/Capture2.png)
-*3 ![image info](./capture/Capture3.png)
+*1 ![image info](./capture/Capture1.PNG)
+*2 ![image info](./capture/Capture2.PNG)
+*3 ![image info](./capture/Capture3.PNG)
